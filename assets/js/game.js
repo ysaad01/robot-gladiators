@@ -5,7 +5,7 @@ var playerMoney = 10;
 
 var enemyNames = ["Roberto", "Amy Android", "Robo Trumble"];
 var enemyHealth = 50;
-var enemyAttack = 10;
+var enemyAttack = 12;
 
 // function to generate a random numeric value
 var randomNumber = function(min, max) {
